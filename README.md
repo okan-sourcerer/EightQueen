@@ -1,6 +1,9 @@
 # EightQueen
 Java Program To Solve Eight Queen Problem using Hill Climbing approach
 
+### Problem Definition
+8 queens exists on the chess board. Place the queens in a way that non of the queens are in direct contact.
+
 ## Position.java
 This class holds positions of the Queen pieces.
 
